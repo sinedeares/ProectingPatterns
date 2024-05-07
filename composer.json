@@ -1,0 +1,28 @@
+{
+  "autoload": {
+    "psr-4" : {
+      "FabriqueMethod\\": "../ProectingPatterns/CreationalPatterns/FabriqueMethod/",
+      "AbstractFabrique\\": "../ProectingPatterns/CreationalPatterns/AbstractFabrique/",
+      "Prototype\\": "../ProectingPatterns/CreationalPatterns/Prototype/",
+      "Builder\\": "../ProectingPatterns/CreationalPatterns/Builder/",
+      "Adapter\\": "../ProectingPatterns/StructuralPatterns/Adapter/",
+      "Bridge\\": "../ProectingPatterns/StructuralPatterns/Bridge/",
+      "Composite\\": "../ProectingPatterns/StructuralPatterns/Composite/",
+      "Decorator\\": "../ProectingPatterns/StructuralPatterns/Decorator/",
+      "Facade\\": "../ProectingPatterns/StructuralPatterns/Facade/",
+      "Flyweight\\": "../ProectingPatterns/StructuralPatterns/Flyweight/",
+      "Proxy\\": "../ProectingPatterns/StructuralPatterns/Proxy/",
+      "ChainOfResponsibility\\": "../ProectingPatterns/BehavioralPatterns/ChainOfResponsibility/",
+      "Command\\": "../ProectingPatterns/BehavioralPatterns/Command/",
+      "Iterator\\": "../ProectingPatterns/BehavioralPatterns/Iterator/",
+      "Mediator\\": "../ProectingPatterns/BehavioralPatterns/Mediator/",
+      "MementoClassic\\": "../ProectingPatterns/BehavioralPatterns/Memento/ClassicVersion",
+      "MementoPHP\\": "../ProectingPatterns/BehavioralPatterns/Memento/SerializeVersion",
+      "Observer\\": "../ProectingPatterns/BehavioralPatterns/Observer/",
+      "State\\": "../ProectingPatterns/BehavioralPatterns/State/",
+      "Strategy\\": "../ProectingPatterns/BehavioralPatterns/Strategy/",
+      "TemplateMethod\\": "../ProectingPatterns/BehavioralPatterns/TemplateMethod/",
+      "Visitor\\": "../ProectingPatterns/BehavioralPatterns/Visitor/"
+    }
+  }
+}
